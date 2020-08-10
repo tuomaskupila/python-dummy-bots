@@ -1,0 +1,11 @@
+import time
+import sys
+
+def main():
+    time.sleep(2)
+    print("Yahoo!")
+    print("This is not the main branch but instead another branch!")
+    print("Success")
+
+if __name__ == "__main__":
+    main()
